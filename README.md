@@ -1,0 +1,1 @@
+This is the final version of the project "QUIZZGAME" realized for the "Computer Networks" course, implemented between December 2024 and January 2025. For further details regarding the implementation, please consult the Technical Report. The final grade for this project was 9.00/10.00.
